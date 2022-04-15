@@ -1,0 +1,3 @@
+https://atadiat.com/en/e-esp8266-esp32-wifi-serial-bridge-converter/amp/
+https://gist.github.com/wyattearp/d1f0a28774b9bae688adf9472f55b3a4
+https://www.fpaynter.com/2021/04/serial-bridge-over-wifi-using-esp32-devkitc/
